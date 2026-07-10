@@ -45,42 +45,11 @@ Gemini-AI-Chatbot/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
 
 ## ⚙️ Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/gemini-ai-chatbot.git
-```
-
-```bash
-cd gemini-ai-chatbot
-```
-
----
-
-### Create Virtual Environment
-
-Windows
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-Linux/Mac
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
----
 
 ### Install Dependencies
 
